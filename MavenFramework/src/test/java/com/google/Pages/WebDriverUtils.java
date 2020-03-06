@@ -11,5 +11,9 @@ public class WebDriverUtils {
 		System.out.println("dinda mtd       ");
 
 	}
+	/**
+	**/
+	public void doubleclick(){
+	}
 
 }
